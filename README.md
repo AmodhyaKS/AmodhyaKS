@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, C++, SQL, HTML, JS, CSS, PHP**
 
-- 📫 How to reach me **radeesarandini3501@gmail.com**
+- 📫 How to reach me **shavindiamodhya2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
